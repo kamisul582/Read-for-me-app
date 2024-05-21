@@ -1,0 +1,56 @@
+our:nasze
+summer:lato
+holiday:wakacje
+life:zycie
+without:bez
+would:mogloby
+become:stac sie
+boring:nudny
+make:robic
+us:nas
+lose:stracic
+interest:zainteresowanie
+in:na
+work:praca
+and:i
+study:studia
+we:my
+usually:zazwyczaj
+spend:spedzac
+the:
+countryside:wies
+sunlight:swiatlo sloneczne
+chirp:cwierkanie
+bird:ptaki
+of:
+like:lubic
+to:do
+enjoy:cieszyc sie
+time:czas
+lap:lono
+nature:natura
+play:grac
+indoor:na zewnatrz
+game:gry
+also:tez
+going:chodzic
+for:na
+walk:spacery
+evening:wieczory
+cool:chlodne
+fresh:swieze
+air:powietrze
+i:ja
+really:na prawde
+enjoyable:przyjemny
+golden:zlote
+wake:budzi
+up:
+gently:delikatnie
+because:poniewaz
+get:dostac
+with:z
+my:moj
+parent:rodzice
+,:,
+.:.

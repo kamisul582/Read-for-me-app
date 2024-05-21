@@ -1,0 +1,7 @@
+<h2>{{message}}</h2>
+<h3>{{error}}</h3>
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="file" accept="image/*, video/*" capture>
+    <button type="submit">Upload File</button>
+</form>
